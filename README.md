@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 # Hi 👋 I'm Rajshree Kavia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=650&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer+Intern;Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -36,14 +29,26 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-HTML5 • CSS3 • JavaScript • Bootstrap • React (Learning)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 ### ⚙️ Backend
-Node.js • Express.js • MongoDB • Mongoose
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-red?style=for-the-badge)
+
+---
 
 ### 🎨 Tools
-Figma • Git • GitHub • VS Code
-
+![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 🚀 GitHub Stats (Live)
@@ -58,7 +63,6 @@ Figma • Git • GitHub • VS Code
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshree051205-cloud&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajshree051205-cloud&theme=tokyo-night)
 
 ---
 
@@ -70,17 +74,12 @@ Figma • Git • GitHub • VS Code
 
 ---
 
-## ⚡ GitHub Auto Stats (Commits + Contributions)
+## 📊 GitHub Activity
 
-👉 Your **commits, PRs, and contributions are automatically tracked here:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshree051205-cloud&show_icons=true&theme=tokyonight)
 
-- Contributions graph (above)
-- Streak stats (daily commits)
-- Repo activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshree051205-cloud&theme=tokyonight)
 
-💡 This updates automatically whenever you code and push on GitHub.
-
----
 
 ## 🔥 Motto
 
