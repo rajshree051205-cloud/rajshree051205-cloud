@@ -1,7 +1,7 @@
 
 # Hi 👋 I'm Rajshree Kavia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=650&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer+Intern;Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=650&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer+Intern;Aspiring+Full+Stack+Developer;MERN+Stack+Learner;)](https://git.io/typing-svg)
 
 ---
 
