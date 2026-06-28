@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:C8A2C8&height=200&section=header&text=Hi%20👋,%20I'm%20Rajshree%20Kavia&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### Frontend Developer Intern
+### Aspiring Full-Stack Developer
 
 > 💬 *"Learning today, building tomorrow — one commit at a time."*
 
