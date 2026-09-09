@@ -67,6 +67,8 @@
 
 📧 Email: [rajshree051205@gmail.com](mailto:rajshree051205@gmail.com)
 
+ <img src="./editorial-laptop-portrait.svg" alt="Editorial portrait" width="500"/>
+
 
 
 
